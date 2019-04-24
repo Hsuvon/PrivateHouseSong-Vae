@@ -11,15 +11,15 @@
 收录许嵩推荐的歌曲。包括许嵩在电台、微博、博客等处推荐的歌。
 
 
-歌单地址：网易云音乐-[『许嵩私房歌单』](https://musi c.163.com/#/playlist?id=2281740658)
+歌单地址：网易云音乐-  [『许嵩私房歌单』](https://musi c.163.com/#/playlist?id=2281740658)
 
 ***
 
 ## 目录
 
-- [《i唱i音乐》许嵩私房歌]() 
-- [网易云音乐私房推荐]()
-- [《明星乐评》许嵩翻牌音乐人]()
+- [《i唱i音乐》许嵩私房歌](https://github.com/hsuvon/PrivateHouseSong-Vae#1i%E5%94%B1i%E9%9F%B3%E4%B9%90%E8%AE%B8%E5%B5%A9%E7%A7%81%E6%88%BF%E6%AD%8C) 
+- [网易云音乐私房推荐](https://github.com/hsuvon/PrivateHouseSong-Vae#2%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0%E8%AE%B8%E5%B5%A9%E7%A7%81%E6%88%BF%E6%8E%A8%E8%8D%90%E9%82%A3%E4%BA%9B%E6%B7%B1%E6%B7%B1%E6%89%93%E5%8A%A8%E6%88%91%E7%9A%84%E6%AD%8C)
+- [《明星乐评》许嵩翻牌音乐人](https://github.com/hsuvon/PrivateHouseSong-Vae#1%E5%94%B1%E5%90%A7%E6%98%8E%E6%98%9F%E4%B9%90%E8%AF%84%E8%AE%B8%E5%B5%A9%E7%BF%BB%E7%89%8C%E9%9F%B3%E4%B9%90%E4%BA%BA)
 - [腾讯微博]()
 - [Vae+、微信朋友圈]()
 - [MusicRadio音乐之声“海俪恩音乐VIP”]()
@@ -186,7 +186,7 @@
 
 
 
-### 1.《唱吧明星乐评》许嵩翻牌音乐人
+### 3.《唱吧明星乐评》许嵩翻牌音乐人
 
 - 制作人：唱吧
 
